@@ -1,0 +1,8 @@
+# Recommended: Python 3.12 (3.10 - 3.13 are supported by these bounds).
+# pip automatically picks the newest versions your Python can run.
+Flask>=3.0,<4.0
+pandas>=2.1,<4.0
+scikit-learn>=1.4,<2.0
+numpy>=1.26,<3.0
+joblib>=1.3,<2.0
+pytest>=8.0,<10.0

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Quiz{% endblock %}
+{% block content %}
+<section class="hero compact">
+  <h1>Flashcard quiz</h1>
+  <p>Pick a subject, read the question, try to answer from memory, then reveal the stored answer. Nothing is recorded.</p>
+</section>
+{% if not ready %}<div class="notice notice-error" role="alert">The quiz is unavailable because the knowledge base could not be loaded.</div>{% endif %}
+<section class="panel quiz" id="quiz" aria-labelledby="quiz-h">
+  <h2 id="quiz-h">Practice</h2>
+  <label for="quiz-subject">Subject</label>
+  <select id="quiz-subject" {% if not ready %}disabled{% endif %}>
+    <option value="">All subjects</option>
+    {% for s in subjects %}<option value="{{ s.name }}">{{ s.name }} ({{ s.cards }})</option>{% endfor %}
+  </select>
+  <div id="quiz-card" class="quiz-card" aria-live="polite">
+    <p id="quiz-question" class="quiz-question">Press Start to get a question.</p>
+    <p id="quiz-answer" class="quiz-answer" hidden></p>
+    <p id="quiz-meta" class="meta"></p>
+  </div>
+  <div class="quiz-actions">
+    <button type="button" id="quiz-start" class="btn btn-primary" {% if not ready %}disabled{% endif %}>Start</button>
+    <button type="button" id="quiz-reveal" class="btn btn-secondary" disabled>Show answer</button>
+    <button type="button" id="quiz-knew" class="btn btn-secondary" disabled>I knew it</button>
+    <button type="button" id="quiz-again" class="btn btn-secondary" disabled>Not yet</button>
+  </div>
+  <p id="quiz-score" class="meta" aria-live="polite"></p>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/quiz.js') }}" defer></script>{% endblock %}

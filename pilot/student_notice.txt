@@ -1,0 +1,11 @@
+StudyBuddy pilot - please read (30 seconds)
+
+* StudyBuddy is a study helper for BSCS subjects. It finds the closest stored answer to your
+  question. It can be wrong or say "not found" - please check important facts in your textbook.
+* This is a TEST. Your job is to help us find out where it fails: ask the way you really would,
+  in English, Filipino or Taglish, with typos if you like.
+* After each answer please click "Helpful" or "Not helpful".
+* What is saved: the text of the question, your rating, and the time - on this computer only.
+  We do NOT save your name, IP address or anything else about you. Do not type personal details
+  into your questions.
+* You may stop at any time. Nothing you do here affects your grades.

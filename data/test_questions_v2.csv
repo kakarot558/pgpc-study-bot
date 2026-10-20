@@ -1,0 +1,127 @@
+question,expected_topic,expected_question,in_scope,difficulty,split
+how to compute expected value of a random variable,Probability and Statistics,What is expected value?,yes,easy,test
+what is texturing in 3d graphics,Computer Graphics and Visual Computing,What is texture mapping?,yes,easy,test
+PDA and stack,Theory of Automata,What is a pushdown automaton?,yes,easy,test
+volume velocity variety big data,Data Mining and Data Warehousing,What are the three Vs of big data?,yes,easy,test
+how to write an abstract for a paper,Technical Writing and Research Methods,What is an abstract?,yes,easy,test
+what is an NFA,Theory of Automata,What is a nondeterministic finite automaton?,yes,easy,test
+functional programming vs oop,Programming Languages,What is functional programming?,yes,easy,test
+what counts as software piracy,Professional Practices,What is software piracy?,yes,easy,test
+how many continents are there,,,no,easy,test
+half adder circuit,Digital Logic Design,What is a half adder?,yes,easy,test
+what is a flow chart used for,Programming Fundamentals,What is a flowchart?,yes,easy,test
+how is model accuracy calculated,Model Evaluation,What is accuracy?,yes,easy,test
+cpu registers what are they,Computer Organization and Architecture,What is a register?,yes,easy,test
+how does map reduce work,Parallel and Distributed Computing,What is MapReduce?,yes,easy,test
+how does an actuator move a motor or valve,Internet of Things and Embedded Systems,What is an actuator?,yes,easy,test
+what are syscalls,Operating Systems,What is a system call?,yes,hard,test
+how to calculate f1,Model Evaluation,What is F1 score?,yes,easy,test
+boolean algebra basics,Digital Logic Design,What is Boolean algebra?,yes,easy,test
+what is CI pipeline,Software Engineering,What is continuous integration?,yes,hard,test
+how does encryption protect data,Information Security,What is encryption?,yes,easy,test
+how to clean a dataset,Data Science,What is data cleaning?,yes,easy,test
+what is an instance of a class,Object Oriented Programming,What is an object?,yes,hard,test
+explain binary trees and their nodes,Data Structures,What is a binary tree?,yes,easy,test
+commit and rollback in transaction,Database Systems,What is a database transaction?,yes,easy,test
+who counts as a stakeholder,IT Project Management,Who are project stakeholders?,yes,easy,test
+how does Docker compose work,,,no,hard,test
+what is Verilog used for,,,no,hard,test
+when does an euler path exist,Discrete Mathematics,What is an Euler path?,yes,easy,test
+sprites in 2d games,Game Development,What is a sprite?,yes,easy,test
+what makes a company a startup,Technopreneurship,What is a startup?,yes,easy,test
+how does if else work,Programming Fundamentals,What is a conditional statement?,yes,easy,test
+time vs space complexity,Algorithms,What is the difference between time complexity and space complexity?,yes,easy,test
+what is GDPR data privacy,Professional Practices,What is data privacy?,yes,easy,test
+what is TypeScript,,,no,hard,test
+what is an algorithm in programming,Programming Fundamentals,What is an algorithm?,yes,easy,test
+what does it mean for events to be independent,Probability and Statistics,What are independent events?,yes,easy,test
+vertices and edges what is a graph,Data Structures,What is a graph?,yes,easy,test
+how do I differentiate a composite function,Linear Algebra and Calculus,What is the chain rule?,yes,hard,test
+what is a DDoS attack,Information Security,What is a denial of service attack?,yes,hard,test
+foreign key meaning,Database Systems,What is a foreign key?,yes,easy,test
+what is climate change,,,no,easy,test
+mutex vs semaphore,Operating Systems,What is a mutex?,yes,hard,test
+what is a vc investor,Technopreneurship,What is venture capital?,yes,hard,test
+explain memory hierarchy registers cache RAM disk,Computer Organization and Architecture,What is the memory hierarchy?,yes,easy,test
+genetic algorithm crossover and mutation,Artificial Intelligence,What is a genetic algorithm?,yes,easy,test
+what is federated learning,,,no,hard,test
+who won the cricket world cup,,,no,easy,test
+simpson 1/3 rule integration,Numerical Methods,What is Simpson's rule?,yes,easy,test
+how does divide and conquer strategy work,Algorithms,What is divide and conquer?,yes,easy,test
+explain abstraction in oop,Object Oriented Programming,What is abstraction?,yes,easy,test
+explain SDLC phases,Software Engineering,What is the software development life cycle?,yes,easy,test
+what is homomorphic encryption,,,no,hard,test
+what is the tallest mountain,,,no,easy,test
+what is css used for,Web Development,What is CSS?,yes,easy,test
+what is a data set,Data Science,What is a dataset?,yes,easy,test
+what is a phishing attack,Information Security,What is phishing?,yes,easy,test
+how do firewalls block traffic,Computer Networks,What is a firewall?,yes,easy,test
+what is a matrix in linear algebra,Linear Algebra and Calculus,What is a matrix?,yes,easy,test
+properties of a vector space,Linear Algebra and Calculus,What is a vector space?,yes,easy,test
+what does HTML stand for,Web Development,What is HTML?,yes,easy,test
+how do I get a visa,,,no,easy,test
+what does a capacitor store,Applied Physics and Electronics,What is a capacitor?,yes,easy,test
+deep learning vs machine learning,Machine Learning,What is deep learning?,yes,easy,test
+explain fuzzy logic reasoning,Artificial Intelligence,What is fuzzy logic?,yes,easy,test
+what are unit tests,Software Engineering,What is unit testing?,yes,easy,test
+how does a priority queue work,Data Structures,What is a priority queue?,yes,easy,test
+what is reinforcement learning from human feedback,,,no,hard,test
+led and diode current direction,Applied Physics and Electronics,What is a diode?,yes,hard,test
+what is the speed of sound,,,no,easy,test
+what is an ipv4 address,Computer Networks,What is an IP address?,yes,hard,test
+why do companies build data warehouses,Data Mining and Data Warehousing,What is a data warehouse?,yes,easy,test
+how to remove jagged edges in graphics,Computer Graphics and Visual Computing,What is anti-aliasing?,yes,hard,test
+explain fitts law,Human Computer Interaction,What is Fitts's law?,yes,easy,test
+how does a 3 to 8 decoder work,Digital Logic Design,What is a decoder in digital logic?,yes,easy,test
+how likely is an event define probability,Probability and Statistics,What is probability?,yes,easy,test
+what is WebAssembly,,,no,hard,test
+binomial distribution formula,Probability and Statistics,What is the binomial distribution?,yes,easy,test
+why do apps ask for camera permission,Mobile Application Development,What is an app permission?,yes,easy,test
+what is 2FA,Information Security,What is multi factor authentication?,yes,hard,test
+bubble sort explanation,Algorithms,How does bubble sort work?,yes,easy,test
+explain regression in machine learning,Machine Learning,What is regression?,yes,easy,test
+best pizza toppings,,,no,easy,test
+what is a Bloom filter,,,no,hard,test
+mqtt protocol iot,Internet of Things and Embedded Systems,What is MQTT?,yes,easy,test
+what is wbs in project management,IT Project Management,What is a work breakdown structure?,yes,hard,test
+what does mod mean a congruent b mod n,Discrete Mathematics,What is modular arithmetic?,yes,hard,test
+explain model view controller,Web Development,What is the MVC pattern?,yes,easy,test
+cache hit vs miss,Computer Organization and Architecture,What is a cache hit and a cache miss?,yes,easy,test
+solve linear equations by row reduction,Numerical Methods,What is Gaussian elimination?,yes,hard,test
+difference between stemming and lemmatization,Natural Language Processing,What is stemming?|What is lemmatization?,yes,easy,test
+what do malloc and free do,Programming Fundamentals,What is dynamic memory allocation?,yes,hard,test
+what is fps in games,Game Development,What is frame rate?,yes,hard,test
+what does star mean in regular expressions,Theory of Automata,What is the Kleene star?,yes,hard,test
+what does the kernel do in an OS,Operating Systems,What is the kernel?,yes,easy,test
+what are reflexive symmetric and transitive relations,Discrete Mathematics,What is a relation in discrete mathematics?,yes,hard,test
+how does dynamic host configuration work,Computer Networks,What is DHCP?,yes,easy,test
+how do I create a view in sql,Database Systems,What is a view in SQL?,yes,easy,test
+random vs stratified sampling,Technical Writing and Research Methods,What is a sampling method?,yes,easy,test
+what is a black hole,,,no,easy,test
+what is the Raft consensus algorithm,,,no,hard,test
+what is a content delivery network,,,no,hard,test
+how do digital signatures work,Information Security,What is a digital signature?,yes,easy,test
+how does an AVL tree balance itself,Data Structures,What is an AVL tree?,yes,easy,test
+what is git used for,Software Engineering,What is version control?,yes,hard,test
+local vs global variable scope,Programming Languages,What is scope in programming?,yes,easy,test
+what does a data dictionary contain,Systems Analysis and Design,What is a data dictionary?,yes,easy,test
+explain singly and doubly linked lists,Data Structures,What is a linked list?,yes,easy,test
+what is flutter used for,Mobile Application Development,What is Flutter?,yes,easy,test
+how to bake a cake,,,no,easy,test
+what are universal and existential quantifiers,Discrete Mathematics,What is a predicate and a quantifier?,yes,hard,test
+when is a destructor called,Object Oriented Programming,What is a destructor?,yes,easy,test
+what are linearly independent vectors,Linear Algebra and Calculus,What is linear independence?,yes,easy,test
+what is ML,Machine Learning,What is machine learning?,yes,easy,test
+define democracy,,,no,easy,test
+explain data types like int and char,Programming Fundamentals,What is a data type?,yes,easy,test
+how do compilers optimise code,Compiler Construction,What is code optimization?,yes,easy,test
+bandwidth vs latency,Computer Networks,What is the difference between bandwidth and latency?,yes,easy,test
+what is the factory pattern or singleton,Object Oriented Programming,What is a design pattern?,yes,hard,test
+unified modeling language diagrams,Software Engineering,What is UML?,yes,easy,test
+decision tables in system analysis,Systems Analysis and Design,What is a decision table?,yes,easy,test
+what is ISA,Computer Organization and Architecture,What is an instruction set architecture?,yes,hard,test
+what is three address code,Compiler Construction,What is intermediate code?,yes,hard,test
+how do media queries make sites responsive,Web Development,What is responsive web design?,yes,easy,test
+what are tokens in a compiler,Compiler Construction,What is a token?,yes,easy,test
+ntfs fat32 ext4 what is a file system,Operating Systems,What is a file system?,yes,easy,test
+what is a method or function in code,Programming Fundamentals,What is a function?,yes,hard,test

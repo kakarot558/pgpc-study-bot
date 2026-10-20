@@ -1,0 +1,361 @@
+text,intent
+what is AI,Artificial Intelligence
+how do machines show intelligence,Artificial Intelligence
+examples of AI in daily life,Artificial Intelligence
+what are smart assistants,Artificial Intelligence
+explain artificial intelligence to a beginner,Artificial Intelligence
+how does AI affect everyday jobs,Artificial Intelligence
+what is NLP,Artificial Intelligence
+how do computers understand human language,Artificial Intelligence
+what is a conversational bot,Artificial Intelligence
+how do streaming services suggest movies,Artificial Intelligence
+what is a recommender,Artificial Intelligence
+how do virtual assistants like Siri work,Artificial Intelligence
+is AI the same as human intelligence,Artificial Intelligence
+real world applications of artificial intelligence,Artificial Intelligence
+what is natural language understanding,Artificial Intelligence
+how does Netflix choose shows for me,Artificial Intelligence
+what are examples of intelligent software,Artificial Intelligence
+what is language technology,Artificial Intelligence
+what can artificial intelligence do,Artificial Intelligence
+how do computers learn from data,Machine Learning
+what is supervised learning with examples,Machine Learning
+explain unsupervised learning,Machine Learning
+what is reinforcement learning with rewards,Machine Learning
+difference between classification and regression,Machine Learning
+how does clustering group data points,Machine Learning
+what is a neural network made of,Machine Learning
+explain deep learning layers,Machine Learning
+how does a decision tree split the data,Machine Learning
+what is a trained model,Machine Learning
+how does an algorithm learn patterns,Machine Learning
+predicting house prices with regression,Machine Learning
+k-means grouping of customers,Machine Learning
+an agent that learns by trial and error,Machine Learning
+what are the types of machine learning,Machine Learning
+how do neural nets learn,Machine Learning
+classify emails as spam or not,Machine Learning
+what are hidden layers,Machine Learning
+how do random forests work,Machine Learning
+explain gradient descent,Machine Learning
+what is a dataset,Data Science
+what are features and labels,Data Science
+how do I handle missing values,Data Science
+how to remove duplicate rows from data,Data Science
+what is preprocessing of raw data,Data Science
+how do I convert categorical columns to numbers,Data Science
+what is a CSV,Data Science
+why scale numeric data,Data Science
+how to deal with outliers,Data Science
+what is data wrangling,Data Science
+explain feature engineering,Data Science
+why should classes be balanced,Data Science
+how do I load a spreadsheet of data,Data Science
+what are rows and columns in a table,Data Science
+how to split data into train and test parts,Data Science
+what is a data frame,Data Science
+how to clean messy records,Data Science
+what is data normalization,Data Science
+why does data quality matter,Data Science
+what is tokenization,Natural Language Processing
+how to split a sentence into words,Natural Language Processing
+what are stop words,Natural Language Processing
+how does TF-IDF weight words,Natural Language Processing
+what is term frequency,Natural Language Processing
+how to measure similarity between two texts,Natural Language Processing
+what is cosine similarity between vectors,Natural Language Processing
+how to convert text into numbers,Natural Language Processing
+what is a bag of words,Natural Language Processing
+how do I remove punctuation from text,Natural Language Processing
+what is stemming,Natural Language Processing
+what is lemmatization,Natural Language Processing
+what are n-grams,Natural Language Processing
+how to lowercase and tidy text,Natural Language Processing
+what is a text vectorizer,Natural Language Processing
+how do you compare two sentences,Natural Language Processing
+what is a corpus,Natural Language Processing
+how are documents turned into vectors,Natural Language Processing
+word embeddings explained,Natural Language Processing
+how do I measure model accuracy,Model Evaluation
+what is precision and recall,Model Evaluation
+what does f1 mean,Model Evaluation
+explain a confusion matrix,Model Evaluation
+what is overfitting,Model Evaluation
+how to detect underfitting,Model Evaluation
+what is cross validation,Model Evaluation
+what is a validation set,Model Evaluation
+why use a baseline model,Model Evaluation
+what is a false alarm in classification,Model Evaluation
+what is data leakage,Model Evaluation
+model works on training data but fails on new data,Model Evaluation
+difference between bias and variance,Model Evaluation
+how do I know if my model is good,Model Evaluation
+what is an ROC curve,Model Evaluation
+how should I choose evaluation metrics,Model Evaluation
+what is a test set for,Model Evaluation
+how to compare two models fairly,Model Evaluation
+what is the bias variance tradeoff,Model Evaluation
+why is accuracy misleading for imbalanced data,Model Evaluation
+what is a 70/30 split,Model Evaluation
+what are the main programming paradigms,Programming Languages
+what is dynamic typing,Programming Languages
+how does a closure capture variables,Programming Languages
+what does strongly typed mean,Programming Languages
+what is a pure function,Programming Languages
+what is variable scope,Programming Languages
+how do lambda functions work,Programming Languages
+what is automatic memory management,Programming Languages
+how do computers draw 3D objects,Computer Graphics and Visual Computing
+what is a vector image,Computer Graphics and Visual Computing
+what is a polygon mesh,Computer Graphics and Visual Computing
+how does lighting work in 3D rendering,Computer Graphics and Visual Computing
+what is a shader,Computer Graphics and Visual Computing
+what is the CMYK colour model,Computer Graphics and Visual Computing
+how do you rotate an object in 2D graphics,Computer Graphics and Visual Computing
+what is image resolution,Computer Graphics and Visual Computing
+how do I build an Android app,Mobile Application Development
+what language is used for iOS apps,Mobile Application Development
+what is React Native,Mobile Application Development
+how do mobile apps get permissions,Mobile Application Development
+what is an app store,Mobile Application Development
+what is the Android manifest file,Mobile Application Development
+how do push notifications work,Mobile Application Development
+what is Swift,Mobile Application Development
+how do smart home devices work,Internet of Things and Embedded Systems
+what is a development board,Internet of Things and Embedded Systems
+how do I read a temperature sensor,Internet of Things and Embedded Systems
+what is a smart sensor network,Internet of Things and Embedded Systems
+what is firmware,Internet of Things and Embedded Systems
+what is a microprocessor versus microcontroller,Internet of Things and Embedded Systems
+how do IoT devices connect to the cloud,Internet of Things and Embedded Systems
+what is a PWM signal,Internet of Things and Embedded Systems
+what is data warehousing,Data Mining and Data Warehousing
+what is a dimension table,Data Mining and Data Warehousing
+how does market basket analysis work,Data Mining and Data Warehousing
+what is OLAP cube,Data Mining and Data Warehousing
+what is a snowflake schema,Data Mining and Data Warehousing
+how is data loaded into a warehouse,Data Mining and Data Warehousing
+what is big data,Data Mining and Data Warehousing
+what is frequent pattern mining,Data Mining and Data Warehousing
+how do I find the root of an equation numerically,Numerical Methods
+what is Lagrange interpolation,Numerical Methods
+how does Runge Kutta work,Numerical Methods
+what is numerical integration,Numerical Methods
+what is the order of convergence,Numerical Methods
+how to solve equations with Gauss Seidel,Numerical Methods
+what is machine epsilon,Numerical Methods
+what is curve fitting by least squares,Numerical Methods
+what does a systems analyst do,Systems Analysis and Design
+what is a context diagram,Systems Analysis and Design
+how do I draw a DFD,Systems Analysis and Design
+what is a structured interview,Systems Analysis and Design
+what is a requirements specification,Systems Analysis and Design
+what is a system flowchart,Systems Analysis and Design
+what are the phases of systems design,Systems Analysis and Design
+what is joint application development,Systems Analysis and Design
+how do I plan a software project,IT Project Management
+what is a project charter,IT Project Management
+how do I estimate project cost,IT Project Management
+what is a PERT chart,IT Project Management
+how do I manage project risks,IT Project Management
+what is a project manager responsible for,IT Project Management
+what is resource allocation,IT Project Management
+what is a kickoff meeting,IT Project Management
+how do I write a research proposal,Technical Writing and Research Methods
+what is the problem statement of a thesis,Technical Writing and Research Methods
+how do I choose a research topic,Technical Writing and Research Methods
+what is a questionnaire,Technical Writing and Research Methods
+what is a research framework,Technical Writing and Research Methods
+how do I write documentation,Technical Writing and Research Methods
+what is the structure of a research paper,Technical Writing and Research Methods
+how do I avoid plagiarism when writing,Technical Writing and Research Methods
+what is electric current,Applied Physics and Electronics
+how do I calculate resistance,Applied Physics and Electronics
+what is a circuit breaker,Applied Physics and Electronics
+what is an inductor,Applied Physics and Electronics
+what is voltage drop,Applied Physics and Electronics
+how does a battery work,Applied Physics and Electronics
+what is the unit of capacitance,Applied Physics and Electronics
+what is an LED,Applied Physics and Electronics
+how do I start a tech company,Technopreneurship
+what is bootstrapping,Technopreneurship
+how do startups find customers,Technopreneurship
+what is a pitch deck,Technopreneurship
+what is an incubator,Technopreneurship
+what makes a good startup idea,Technopreneurship
+how do entrepreneurs raise funding,Technopreneurship
+what is market validation,Technopreneurship
+how do I make a video game,Game Development
+what is Unity,Game Development
+how does game AI work,Game Development
+what is a tile map,Game Development
+how do games handle player input,Game Development
+what is a game asset,Game Development
+what is a 2D platformer,Game Development
+what is game design document,Game Development
+how do for and while loops differ,Programming Fundamentals
+what does return do in a function,Programming Fundamentals
+what is an if else statement,Programming Fundamentals
+how do I declare an integer variable,Programming Fundamentals
+what are parameters and arguments,Programming Fundamentals
+what is a base case in recursion,Programming Fundamentals
+how is a two dimensional array stored,Programming Fundamentals
+difference between int and float,Programming Fundamentals
+how does a subclass get methods from a parent class,Object Oriented Programming
+what are private public and protected access modifiers,Object Oriented Programming
+why use getters and setters,Object Oriented Programming
+what does the this keyword refer to,Object Oriented Programming
+what is the Singleton pattern,Object Oriented Programming
+can a class implement more than one interface,Object Oriented Programming
+how are objects created from classes,Object Oriented Programming
+what is multiple inheritance,Object Oriented Programming
+how do I push and pop items,Data Structures
+what is the cost of inserting at the head of a linked list,Data Structures
+how does an in order traversal work,Data Structures
+what are collisions in hashing,Data Structures
+what is a min heap,Data Structures
+adjacency list versus adjacency matrix,Data Structures
+what is a deque,Data Structures
+how does a red black tree stay balanced,Data Structures
+which sorting algorithm is fastest,Algorithms
+what is the worst case of quicksort,Algorithms
+how to find the shortest path in a weighted graph,Algorithms
+what is memoization,Algorithms
+explain the knapsack problem,Algorithms
+what is the travelling salesman problem,Algorithms
+how does Kruskal work,Algorithms
+what is the recurrence for merge sort,Algorithms
+how many ways can I arrange five books,Discrete Mathematics
+what is a bijective function,Discrete Mathematics
+how to write an induction proof,Discrete Mathematics
+what does the implication symbol mean,Discrete Mathematics
+what are logical connectives,Discrete Mathematics
+what are union and intersection of sets,Discrete Mathematics
+what is a partial order,Discrete Mathematics
+what is a bipartite graph,Discrete Mathematics
+how do I differentiate x squared,Linear Algebra and Calculus
+what is a partial derivative,Linear Algebra and Calculus
+how to find the area under a curve,Linear Algebra and Calculus
+what is the transpose of a matrix,Linear Algebra and Calculus
+what is an identity matrix,Linear Algebra and Calculus
+how do I solve a system of linear equations,Linear Algebra and Calculus
+what are orthogonal vectors,Linear Algebra and Calculus
+what is the span of a set of vectors,Linear Algebra and Calculus
+what is the chance of rolling two sixes,Probability and Statistics
+how do I calculate the average of numbers,Probability and Statistics
+what is a z score,Probability and Statistics
+what is sampling,Probability and Statistics
+what is the law of large numbers,Probability and Statistics
+population versus sample,Probability and Statistics
+what is a uniform distribution,Probability and Statistics
+what is the Poisson distribution,Probability and Statistics
+how does the processor execute an instruction,Computer Organization and Architecture
+what is clock speed,Computer Organization and Architecture
+what is a multicore processor,Computer Organization and Architecture
+what is a direct mapped cache,Computer Organization and Architecture
+what are addressing modes,Computer Organization and Architecture
+what is instruction level parallelism,Computer Organization and Architecture
+what is the stack pointer register,Computer Organization and Architecture
+how are floating point numbers stored,Computer Organization and Architecture
+what is the truth table of an XOR gate,Digital Logic Design
+how to build a circuit using only NAND gates,Digital Logic Design
+what is a D flip flop,Digital Logic Design
+how do I simplify a boolean expression,Digital Logic Design
+what is a shift register,Digital Logic Design
+how does a binary adder circuit work,Digital Logic Design
+what is a demultiplexer,Digital Logic Design
+how to convert binary to hexadecimal,Digital Logic Design
+what happens during a context switch,Operating Systems
+how does shortest job first scheduling work,Operating Systems
+what are the four conditions for deadlock,Operating Systems
+what is page replacement,Operating Systems
+user mode versus kernel mode,Operating Systems
+what is inter process communication,Operating Systems
+what is a zombie process,Operating Systems
+what does the scheduler do,Operating Systems
+how do I write a select query,Database Systems
+what is a one to many relationship,Database Systems
+what is third normal form,Database Systems
+when should I use an inner join,Database Systems
+what are database constraints,Database Systems
+what is a B tree index,Database Systems
+what do commit and rollback do,Database Systems
+what is a database schema,Database Systems
+how does data travel through the network layers,Computer Networks
+which port does HTTP use,Computer Networks
+what is a default gateway,Computer Networks
+difference between IPv4 and IPv6,Computer Networks
+how does ARP work,Computer Networks
+what is packet switching,Computer Networks
+what is a proxy server,Computer Networks
+how does email use SMTP,Computer Networks
+what are the stages of the SDLC,Software Engineering
+what is a user story,Software Engineering
+how does a sprint work,Software Engineering
+what is test driven development,Software Engineering
+what is the bug life cycle,Software Engineering
+what is a code review,Software Engineering
+what is technical debt,Software Engineering
+what is the V model,Software Engineering
+how do I draw a DFA for strings ending in 01,Theory of Automata
+how to convert an NFA to a DFA,Theory of Automata
+what language does this regular expression describe,Theory of Automata
+what is a Mealy machine,Theory of Automata
+what is a context sensitive grammar,Theory of Automata
+how does a Turing machine accept input,Theory of Automata
+what is an undecidable problem,Theory of Automata
+how is a grammar converted to Chomsky normal form,Theory of Automata
+what does a lexer do,Compiler Construction
+how does a parser work,Compiler Construction
+what is a recursive descent parser,Compiler Construction
+what is LR parsing,Compiler Construction
+what is register allocation,Compiler Construction
+what is syntax directed translation,Compiler Construction
+what are first and follow sets,Compiler Construction
+how does a compiler generate machine code,Compiler Construction
+how do search algorithms find a path,Artificial Intelligence
+what is hill climbing,Artificial Intelligence
+how do game playing programs choose moves,Artificial Intelligence
+what is a Bayesian network,Artificial Intelligence
+what is constraint satisfaction,Artificial Intelligence
+how does an AI plan its actions,Artificial Intelligence
+how do I center a div,Web Development
+what is a JavaScript promise,Web Development
+what does a 404 status code mean,Web Development
+what is a web server,Web Development
+how does an HTML form send data,Web Development
+what is CSS flexbox,Web Development
+how do I fetch data from an API,Web Development
+what is a single page application,Web Development
+how are passwords stored safely,Information Security
+what is a brute force attack,Information Security
+what is two factor authentication,Information Security
+what is ransomware,Information Security
+how does HTTPS keep data safe,Information Security
+what is a buffer overflow,Information Security
+what is a zero day vulnerability,Information Security
+what is the principle of least privilege,Information Security
+what makes a good user interface,Human Computer Interaction
+how do I design for accessibility,Human Computer Interaction
+what is a wireframe,Human Computer Interaction
+what is a persona,Human Computer Interaction
+how do I run a usability study,Human Computer Interaction
+what is cognitive load,Human Computer Interaction
+low fidelity versus high fidelity prototype,Human Computer Interaction
+what are mental models,Human Computer Interaction
+how does multithreading speed up programs,Parallel and Distributed Computing
+what is a cloud region,Parallel and Distributed Computing
+how do servers share load,Parallel and Distributed Computing
+what is eventual consistency,Parallel and Distributed Computing
+what is the speedup from adding processors,Parallel and Distributed Computing
+what is serverless computing,Parallel and Distributed Computing
+what is message passing,Parallel and Distributed Computing
+what is a cluster of computers,Parallel and Distributed Computing
+what is copyright in software,Professional Practices
+is it legal to copy code from the internet,Professional Practices
+what is the MIT license,Professional Practices
+what are the ethics of AI,Professional Practices
+what is a non disclosure agreement,Professional Practices
+why do professionals follow codes of conduct,Professional Practices
+what is GDPR,Professional Practices
+how does open source licensing work,Professional Practices

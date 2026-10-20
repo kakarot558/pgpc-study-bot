@@ -1,0 +1,83 @@
+﻿question,answer,topic
+What is artificial intelligence?,"Artificial intelligence (AI) is a field of computing that develops systems able to perform tasks commonly associated with human intelligence, such as recognizing patterns, understanding language, and making decisions.",Artificial Intelligence
+Define AI,"Artificial intelligence is the study and development of computer systems that can perform tasks such as reasoning, learning, and recognizing patterns.",Artificial Intelligence
+Give examples of artificial intelligence,"Examples of AI include spam filters, recommendation systems, speech recognition, image recognition, and navigation assistants.",Artificial Intelligence
+What is machine learning?,Machine learning (ML) is a branch of AI in which computers learn patterns from data to make predictions or decisions without being explicitly programmed for every situation.,Machine Learning
+Explain machine learning in simple words,Machine learning lets a computer learn patterns from examples and use what it learned to make predictions about new examples.,Machine Learning
+How is AI different from machine learning?,AI is the broader field of building systems that perform intelligent tasks. Machine learning is one approach within AI that learns patterns from data.,Machine Learning
+What is supervised learning?,"Supervised learning trains a model on labeled examples, where each input has a known correct target. Classification and regression are common supervised tasks.",Machine Learning
+Define unsupervised learning,Unsupervised learning searches for patterns or structure in data without supplied target labels. Clustering is one example.,Machine Learning
+What is reinforcement learning?,Reinforcement learning trains an agent to choose actions by receiving rewards or penalties from an environment and improving its strategy over time.,Machine Learning
+What is classification?,"Classification predicts a category, such as whether an email is spam or not spam.",Machine Learning
+What is regression?,"Regression predicts a numerical value, such as a house price or a temperature.",Machine Learning
+What is clustering?,Clustering groups similar data points together without requiring a known label for every example.,Machine Learning
+What is a dataset?,"A dataset is an organized collection of examples or observations used for analysis, training, testing, or evaluation.",Data Science
+What is a feature in machine learning?,"A feature is an input variable used by a model to make a prediction. For example, house size can be a feature for predicting a house price.",Data Science
+What is a label?,"A label is the known target or answer associated with a training example, such as the category assigned to an image.",Data Science
+What is data cleaning?,"Data cleaning identifies and handles problems such as missing values, duplicate rows, inconsistent formats, and incorrect entries before analysis or modeling.",Data Science
+Why do we split data into training and testing sets?,Training data is used to fit the model. Test data is kept separate to estimate how well the model performs on examples it has not seen during training.,Data Science
+What is data preprocessing?,"Data preprocessing prepares raw data for analysis or modeling. It can include cleaning, encoding categories, scaling values, and transforming text.",Data Science
+What is natural language processing?,"Natural language processing (NLP) is a field of AI that helps computers process, analyze, and work with human language in text or speech.",Artificial Intelligence
+What is a chatbot?,"A chatbot is software that interacts with people through conversation. It may follow rules, retrieve prepared answers, or generate responses using a language model.",Artificial Intelligence
+What is TF-IDF?,TF-IDF stands for term frequency-inverse document frequency. It represents text numerically and gives relatively more weight to terms that are informative in a document and less weight to terms common across documents.,Text Processing
+What is cosine similarity?,"Cosine similarity measures similarity between two non-zero vectors by comparing their angle. In text retrieval, it can rank questions or documents related to a user's query.",Text Processing
+What is tokenization?,"Tokenization splits text into smaller units called tokens, such as words or subwords, so software can process the text.",Text Processing
+What are stop words?,Stop words are common words such as 'the' or 'is' that some text-processing systems remove because they may contribute little to a particular task. Whether to remove them depends on the application.,Text Processing
+What is a decision tree?,A decision tree predicts an outcome through a sequence of feature-based decisions arranged in branches. It can be used for classification and regression.,Machine Learning
+What is a neural network?,A neural network is a model made of connected computational units arranged in layers. Training adjusts its weights so it can learn patterns from examples.,Machine Learning
+What is deep learning?,Deep learning is a part of machine learning that uses neural networks with multiple layers to learn complex patterns from data.,Machine Learning
+What is a machine learning model?,A machine learning model is the learned mathematical representation produced by a learning algorithm. It uses learned patterns to make predictions on new inputs.,Machine Learning
+What is overfitting?,"Overfitting occurs when a model learns the training examples too closely, including noise, and performs poorly on new data. More representative data, regularization, and cross-validation can help.",Model Evaluation
+What is underfitting?,"Underfitting occurs when a model is too simple to learn important patterns, resulting in poor performance on both training and unseen examples.",Model Evaluation
+What is accuracy?,Accuracy is the number of correct predictions divided by the total number of predictions. It can be misleading when classes are imbalanced.,Model Evaluation
+What is precision?,Precision is the fraction of predicted positive cases that are truly positive: true positives divided by true positives plus false positives.,Model Evaluation
+What is recall?,Recall is the fraction of actual positive cases that the model correctly identifies: true positives divided by true positives plus false negatives.,Model Evaluation
+What is F1 score?,The F1 score is the harmonic mean of precision and recall. It is useful when both false positives and false negatives matter.,Model Evaluation
+What is a confusion matrix?,"A confusion matrix compares actual and predicted classes, showing counts such as true positives, false positives, true negatives, and false negatives in binary classification.",Model Evaluation
+What is cross-validation?,Cross-validation evaluates a model across multiple train-validation splits to estimate how reliably it generalizes and to help compare model settings.,Model Evaluation
+What is data leakage?,"Data leakage occurs when information that would not be available at prediction time enters training or evaluation, producing results that look better than real-world performance.",Model Evaluation
+What is a false positive?,A false positive occurs when a model predicts a positive class but the actual class is negative.,Model Evaluation
+What is a false negative?,A false negative occurs when a model predicts a negative class but the actual class is positive.,Model Evaluation
+What is active recall?,Active recall is a study method where you try to retrieve information from memory without looking at the answer first. Practice questions and flashcards can help.,Study Skills
+What is spaced repetition?,Spaced repetition means reviewing information at increasing intervals over time. It helps strengthen memory more effectively than doing all review in one session.,Study Skills
+How can I prepare for an exam?,"List the topics, prioritize difficult concepts, use active recall and practice questions, review over several days, take breaks, and sleep adequately before the exam.",Study Skills
+How do I make a study schedule?,"List your deadlines and subjects, estimate the time needed, divide large tasks into smaller sessions, schedule short breaks, and review your plan daily.",Study Skills
+What should I do if I do not understand a lesson?,"Break the lesson into smaller ideas, identify the exact part that confuses you, review an example, explain the idea in your own words, and ask a teacher or classmate for help.",Study Skills
+How can I avoid procrastination?,"Start with a small task, set a short focused timer, remove distractions, define a clear finish line, and reward yourself after completing a session.",Study Skills
+What is the Pomodoro technique?,"The Pomodoro technique divides work into focused intervals, commonly 25 minutes, followed by short breaks. Adjust the timing to suit your needs.",Study Skills
+How can I remember what I study?,"Use active recall, spaced repetition, practice questions, examples, and explanations in your own words. Connect new concepts to ideas you already understand.",Study Skills
+What is critical thinking?,"Critical thinking means carefully evaluating information, checking evidence, identifying assumptions, and considering alternative explanations before reaching a conclusion.",Study Skills
+How do I take better notes?,"Organize notes by topic, write key ideas in your own words, include examples, mark questions to revisit, and review or summarize notes soon after class.",Study Skills
+What is plagiarism?,"Plagiarism is presenting another person's words, ideas, or work as your own without proper acknowledgment. Follow your institution's citation rules and credit sources.",Academic Skills
+How do I paraphrase correctly?,"Understand the source, set it aside, express the idea in your own structure and words, compare to ensure accuracy, and cite the original source when required.",Academic Skills
+What is a thesis statement?,A thesis statement briefly presents the central claim or argument of an essay or research paper and guides the reader about its main direction.,Academic Skills
+What is a research question?,"A research question is a clear, focused question that a study aims to answer using evidence or a systematic investigation.",Academic Skills
+What is a hypothesis?,"A hypothesis is a testable proposed explanation or prediction that can be examined using observations, data, or an experiment.",Research Skills
+What is qualitative research?,"Qualitative research explores experiences, meanings, or perspectives using methods such as interviews, observations, and analysis of text.",Research Skills
+What is quantitative research?,"Quantitative research uses numerical data and statistical methods to measure variables, test hypotheses, or examine relationships.",Research Skills
+What is a literature review?,"A literature review summarizes and evaluates existing research on a topic to explain what is known, identify patterns, and show gaps that a new study may address.",Research Skills
+What is a citation?,"A citation identifies the source of information, ideas, or quotations used in academic work so readers can locate and verify the source.",Academic Skills
+What is time management for students?,"Time management means planning tasks, estimating how long they take, setting priorities, and reserving time for study, rest, and unexpected work.",Study Skills
+How can I reduce distractions while studying?,"Silence unnecessary notifications, keep only needed materials open, choose a consistent study space, and work on one task at a time.",Study Skills
+How do I make flashcards?,Put one clear question or prompt on the front and a concise answer on the back. Test yourself before checking the answer and revisit difficult cards more often.,Study Skills
+What is the difference between precision and recall?,Precision asks how many predicted positives are correct. Recall asks how many actual positives the model successfully finds.,Model Evaluation
+What is a validation dataset?,Validation data helps compare models and tune settings during development. Keep the final test set separate until the final evaluation.,Model Evaluation
+What is a baseline model?,A baseline is a simple reference approach used to judge whether a more complex model provides a meaningful improvement.,Model Evaluation
+Why is a balanced dataset useful?,"A balanced dataset has similar numbers of examples per class. It can help training, although the best sampling strategy depends on the real distribution and task.",Data Science
+What is Flask?,Flask is a lightweight Python web framework used to build web applications and define routes that respond to browser requests.,Programming
+What is an API?,An application programming interface (API) is a defined way for software components to communicate. This project does not need an external API to answer study questions.,Programming
+What is a CSV file?,"CSV stands for comma-separated values. It is a plain-text format for tabular data, with rows and columns separated by delimiters.",Data Science
+What is a virtual environment in Python?,A Python virtual environment keeps project dependencies isolated from packages used by other Python projects.,Programming
+What is a train-test split of 80/20?,An 80/20 split allocates about 80 percent of eligible examples to training and 20 percent to testing. The exact split should suit the dataset size and evaluation plan.,Model Evaluation
+What is bias in machine learning?,"Bias can refer to systematic error from assumptions that are too simple, or to fairness concerns when a model produces systematically unequal outcomes. The meaning depends on context.",Model Evaluation
+What is variance in machine learning?,Variance describes how much a model's learned results change with different training samples. High variance can be associated with overfitting.,Model Evaluation
+What is a recommendation system?,"A recommendation system suggests items such as books, courses, or products based on signals like user preferences, item characteristics, or behavior.",Artificial Intelligence
+What is a knowledge base?,"A knowledge base is an organized collection of facts, explanations, and other information that a system can search to answer questions.",Chatbot Basics
+What is retrieval-based chatbot?,A retrieval-based chatbot selects an answer from stored responses based on how closely a user's message matches known questions or intents.,Chatbot Basics
+What is a fallback response?,A fallback response is a safe message used when the chatbot cannot find a sufficiently relevant answer. It prevents the system from presenting an unrelated answer as correct.,Chatbot Basics
+Can this chatbot answer anything?,"No. This version searches only its local dataset. Add reliable question-answer entries for new subjects, and expect it to use a fallback when it cannot find a good match.",Chatbot Basics
+Does the chatbot need an internet connection to answer?,"After Python packages are installed, this local version can answer from its local dataset without an internet connection or external API.",Chatbot Basics
+How can I improve the chatbot?,"Add accurate answers and alternative question phrasings, test with unseen questions, inspect wrong matches, tune the similarity threshold, and measure performance on a separate labeled test set.",Chatbot Basics
+What does TF-IDF do in this project?,TF-IDF converts stored questions and a student's question into numerical text vectors so the system can compare their content using cosine similarity.,Chatbot Basics
+Why did the chatbot give a wrong answer?,"The query may share words with a different stored question, or the dataset may not contain a suitable answer. Add alternative phrasings, improve the content, and tune the fallback threshold using tests.",Chatbot Basics
+Can I add my own subjects?,"Yes. Add rows to the CSV with a question, an accurate answer, and a topic. Keep the column names the same and restart the application after editing the dataset.",Chatbot Basics

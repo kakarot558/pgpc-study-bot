@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}Chat{% endblock %}
+{% block content %}
+<section class="hero">
+  <h1>StudyBuddy: your BSCS study assistant</h1>
+  <p>Ask a question from any BSCS subject, major or minor: programming, algorithms, operating systems, databases, networks, software engineering, AI, math, electronics, project management, research methods and more. I answer from a local dataset.</p>
+  <p class="badge-local">Works locally &ndash; no external AI API, no internet needed to answer</p>
+</section>
+
+{% if not ready %}
+<div class="notice notice-error" role="alert">The knowledge base could not be loaded, so chat is unavailable. Check <code>data/study_faq.csv</code> and the server console.</div>
+{% endif %}
+
+<div class="layout">
+  <section class="chat-card" aria-labelledby="chat-heading">
+    <div class="chat-head">
+      <h2 id="chat-heading">Conversation</h2>
+      <button type="button" id="clear-btn" class="btn btn-secondary">Clear chat</button>
+    </div>
+    <div id="messages" class="messages" role="log" aria-live="polite" aria-label="Chat messages" tabindex="0">
+      <div class="bubble bot"><p>Hi! I am StudyBuddy. I answer BSCS (Computer Science) subject questions. Pick a suggested question or type your own.</p></div>
+    </div>
+    <p id="status" class="sr-only" aria-live="polite"></p>
+    <form id="chat-form" class="chat-form" autocomplete="off" data-max-length="{{ max_length }}">
+      <label for="chat-input" class="sr-only">Your question</label>
+      <input id="chat-input" name="message" type="text" maxlength="{{ max_length }}" placeholder="Ask a BSCS question" required {% if not ready %}disabled{% endif %}>
+      <button type="submit" id="send-btn" class="btn btn-primary" {% if not ready %}disabled{% endif %}>Send</button>
+    </form>
+  </section>
+
+  <aside class="side" aria-label="Suggestions and topics">
+    <section class="panel">
+      <h2>Topics</h2>
+      <div id="topic-filters" class="chips" role="group" aria-label="Filter suggested questions by topic">
+        <button type="button" class="chip is-active" data-topic="" aria-pressed="true">All</button>
+        {% for t in topics %}
+        <button type="button" class="chip" data-topic="{{ t.name }}" aria-pressed="false">{{ t.name }} ({{ t.count }})</button>
+        {% endfor %}
+      </div>
+    </section>
+    <section class="panel">
+      <h2>Try asking</h2>
+      <ul id="suggestions" class="suggestions">
+        {% for s in suggestions %}
+        <li data-topic="{{ s.topic }}"><button type="button" class="suggestion" data-question="{{ s.question }}">{{ s.question }}</button></li>
+        {% endfor %}
+      </ul>
+    </section>
+  </aside>
+</div>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/chat.js') }}" defer></script>{% endblock %}

@@ -1,0 +1,251 @@
+question,expected_topic,expected_question,in_scope,difficulty,split
+What is a set in discrete maths?,Discrete Mathematics,What is a set?,yes,easy,dev
+How do we measure usability?,Human Computer Interaction,What is usability?,yes,easy,dev
+Is P equal to NP?,Theory of Automata,What is the difference between P and NP?,yes,easy,dev
+Series circuit versus parallel circuit,Applied Physics and Electronics,What is the difference between series and parallel circuits?,yes,easy,dev
+Explain how a function can call itself,Programming Fundamentals,What is recursion?,yes,hard,dev
+Explain CFG,Theory of Automata,What is a context free grammar?,yes,easy,test
+How do I simplify expressions with a K-map?,Digital Logic Design,What is a Karnaugh map?,yes,hard,dev
+Can you explain what a variable is in coding?,Programming Fundamentals,What is a variable?,yes,easy,test
+When does a matrix have an inverse?,Linear Algebra and Calculus,What is the inverse of a matrix?,yes,easy,dev
+How do I approximate an integral with trapezoids?,Numerical Methods,What is the trapezoidal rule?,yes,easy,dev
+Explain anonymous functions in Python,Programming Languages,What is a lambda expression?,yes,hard,dev
+UI versus UX,Human Computer Interaction,What is the difference between UI and UX?,yes,easy,test
+Combinational circuit vs sequential circuit,Digital Logic Design,What is the difference between combinational and sequential circuits?,yes,easy,test
+What is the meaning of life?,,,no,easy,dev
+What does a class mean in OOP?,Object Oriented Programming,What is a class?,yes,easy,dev
+What happens in a scrum sprint?,Software Engineering,What is Scrum?,yes,easy,dev
+How do neural networks work?,Machine Learning,What is a neural network?,yes,easy,dev
+Explain data hiding with encapsulation,Object Oriented Programming,What is encapsulation?,yes,easy,test
+How does virtual memory work?,Operating Systems,What is virtual memory?,yes,easy,dev
+How does a child class inherit from a parent class?,Object Oriented Programming,What is inheritance?,yes,easy,test
+How does a DFA accept a string?,Theory of Automata,What is a deterministic finite automaton?,yes,easy,test
+How do I use the determinant of a matrix?,Linear Algebra and Calculus,What is the determinant of a matrix?,yes,easy,test
+How do loops repeat code in a program?,Programming Fundamentals,What is a loop?,yes,easy,test
+What is a mux in digital electronics?,Digital Logic Design,What is a multiplexer?,yes,hard,test
+How does the processor handle interrupts?,Computer Organization and Architecture,What is an interrupt?,yes,easy,dev
+How tall is Mount Everest?,,,no,easy,test
+How does the main loop of a game work?,Game Development,What is a game loop?,yes,easy,dev
+What is a PWA?,Mobile Application Development,What is a progressive web app?,yes,hard,dev
+What is an array and how is it indexed?,Programming Fundamentals,What is an array?,yes,easy,dev
+How does TCP establish a connection?,Computer Networks,What is the TCP three-way handshake?,yes,hard,dev
+Explain the CAP theorem for distributed systems,Parallel and Distributed Computing,What is the CAP theorem?,yes,easy,dev
+Why should code be refactored?,Software Engineering,What is refactoring?,yes,easy,test
+How does the waterfall process work?,Software Engineering,What is the waterfall model?,yes,easy,test
+How does tokenizing text work?,Natural Language Processing,What is tokenization?,yes,easy,dev
+What is the formula relating voltage current and resistance?,Applied Physics and Electronics,What is Ohm's law?,yes,hard,test
+How does a full adder work?,Digital Logic Design,What is a full adder?,yes,easy,dev
+What do the letters in ACID stand for in databases?,Database Systems,What are ACID properties?,yes,easy,dev
+How does automatic memory reclamation work in Java?,Programming Languages,What is garbage collection?,yes,hard,test
+Raspberry Pi versus Arduino,Internet of Things and Embedded Systems,What is the difference between Arduino and Raspberry Pi?,yes,easy,dev
+OLTP versus OLAP systems,Data Mining and Data Warehousing,What is the difference between OLTP and OLAP?,yes,easy,dev
+How do I prove something by induction?,Discrete Mathematics,What is mathematical induction?,yes,easy,test
+What is term frequency inverse document frequency?,Natural Language Processing,What is TF-IDF?,yes,easy,test
+What are the different programming paradigms?,Programming Languages,What is a programming paradigm?,yes,easy,test
+What is the pivot in quicksort?,Algorithms,How does quick sort work?,yes,easy,dev
+Explain polymorphism with an example,Object Oriented Programming,What is polymorphism?,yes,easy,dev
+Explain Newton's method for finding roots,Numerical Methods,What is the Newton Raphson method?,yes,easy,test
+What does Amdahl law say about speedup?,Parallel and Distributed Computing,What is Amdahl's law?,yes,easy,test
+How do I interpret a 95 percent confidence interval?,Probability and Statistics,What is a confidence interval?,yes,easy,dev
+Who painted the Mona Lisa?,,,no,easy,test
+How does a hash function protect passwords?,Information Security,What is hashing?,yes,hard,dev
+How many players are in a football team?,,,no,easy,dev
+How is probability calculated given another event has happened?,Probability and Statistics,What is conditional probability?,yes,hard,test
+How do vaccines work?,,,no,easy,test
+How do I find a root by halving an interval?,Numerical Methods,What is the bisection method?,yes,hard,test
+What does a derivative measure?,Linear Algebra and Calculus,What is a derivative?,yes,easy,test
+What does a literature review do in a thesis?,Technical Writing and Research Methods,What is a literature review?,yes,easy,dev
+How do analysts collect user requirements?,Systems Analysis and Design,What are requirements gathering techniques?,yes,easy,dev
+What are semaphores used for?,Operating Systems,What is a semaphore?,yes,easy,test
+Verification and validation in software testing,Software Engineering,What is the difference between verification and validation?,yes,easy,dev
+What are mnemonics like MOV and ADD?,Computer Organization and Architecture,What is assembly language?,yes,hard,test
+How do I treat a headache?,,,no,easy,test
+How does a Gantt chart show a project schedule?,IT Project Management,What is a Gantt chart?,yes,easy,dev
+Native versus cross platform app development,Mobile Application Development,What is the difference between native and cross-platform mobile apps?,yes,easy,test
+"Array vs linked list, which is better?",Data Structures,What is the difference between an array and a linked list?,yes,easy,dev
+What is Shakespeare famous for?,,,no,easy,dev
+How does A* search work?,Artificial Intelligence,What is the A star search algorithm?,yes,hard,dev
+Qualitative versus quantitative research methods,Technical Writing and Research Methods,What is the difference between qualitative and quantitative research?,yes,easy,test
+Why does overfitting happen?,Model Evaluation,What is overfitting?,yes,easy,dev
+GET versus POST requests,Web Development,What is the difference between GET and POST?,yes,easy,dev
+What are pointers in C?,Programming Fundamentals,What is a pointer?,yes,easy,test
+What does NP complete mean?,Algorithms,What are NP-complete problems?,yes,easy,test
+How do I compute the dot product of two vectors?,Linear Algebra and Calculus,What is the dot product?,yes,easy,dev
+What does it mean when a program leaks memory?,Programming Fundamentals,What is a memory leak?,yes,easy,test
+What is photosynthesis?,,,no,easy,test
+How do games detect when objects collide?,Game Development,What is collision detection?,yes,easy,test
+How do call by value and call by reference differ?,Programming Fundamentals,What is the difference between pass by value and pass by reference?,yes,easy,dev
+What is a smart contract?,,,no,hard,test
+How is the rank of a matrix defined?,Linear Algebra and Calculus,What is the rank of a matrix?,yes,easy,test
+What is Kubernetes?,,,no,hard,dev
+How do I read a confusion matrix?,Model Evaluation,What is a confusion matrix?,yes,easy,test
+What is a prefix tree used for autocomplete?,Data Structures,What is a trie?,yes,hard,test
+Explain Von Neumann model of a computer,Computer Organization and Architecture,What is the von Neumann architecture?,yes,easy,test
+Explain learning with labelled data,Machine Learning,What is supervised learning?,yes,hard,test
+What is a rational agent in AI?,Artificial Intelligence,What is an intelligent agent?,yes,hard,test
+What is the chemical formula of water?,,,no,easy,test
+How do I cite sources in APA format?,Technical Writing and Research Methods,What is APA referencing style?,yes,easy,test
+How do sensors measure temperature or light?,Internet of Things and Embedded Systems,What is a sensor?,yes,easy,test
+How is integration related to area under a curve?,Linear Algebra and Calculus,What is an integral?,yes,hard,test
+What is regex?,Theory of Automata,What is a regular expression?,yes,hard,dev
+Router vs switch,Computer Networks,What is the difference between a router and a switch?,yes,easy,test
+Explain the types of grammars in the Chomsky hierarchy,Theory of Automata,What is the Chomsky hierarchy?,yes,easy,test
+How does network address translation work?,Computer Networks,What is NAT?,yes,easy,test
+When do I use an interface instead of an abstract class?,Object Oriented Programming,What is the difference between an abstract class and an interface?,yes,hard,test
+List the stages of compilation,Compiler Construction,What are the phases of a compiler?,yes,hard,dev
+Alternating current versus direct current,Applied Physics and Electronics,What is the difference between AC and DC?,yes,easy,test
+How do try and catch work?,Programming Fundamentals,What is exception handling?,yes,easy,test
+What makes an API RESTful?,Web Development,What is a REST API?,yes,hard,test
+What is a transformer model?,,,no,hard,test
+What is blockchain?,,,no,hard,dev
+Public key versus private key encryption,Information Security,What is the difference between symmetric and asymmetric encryption?,yes,hard,test
+Why does scope creep hurt projects?,IT Project Management,What is scope creep?,yes,easy,test
+State Bayes rule,Probability and Statistics,What is Bayes' theorem?,yes,hard,test
+Explain round robin CPU scheduling with time quantum,Operating Systems,What is round robin scheduling?,yes,easy,test
+Explain the seven layers of the OSI model,Computer Networks,What is the OSI model?,yes,easy,dev
+Vector versus bitmap images,Computer Graphics and Visual Computing,What is the difference between raster and vector graphics?,yes,hard,dev
+Explain IoT with examples,Internet of Things and Embedded Systems,What is the Internet of Things?,yes,hard,test
+What does the lexical analyzer do?,Compiler Construction,What is lexical analysis?,yes,easy,test
+RAM versus ROM differences,Computer Organization and Architecture,What is the difference between RAM and ROM?,yes,easy,dev
+What is COBOL used for?,,,no,hard,test
+How does LRU page replacement work?,Operating Systems,What is page replacement?,yes,hard,dev
+"Overloading versus overriding, what is the difference?",Object Oriented Programming,What is the difference between method overloading and method overriding?,yes,easy,test
+What is the Android activity lifecycle?,Mobile Application Development,What is an Android activity?,yes,easy,test
+When do I use permutations and when combinations?,Discrete Mathematics,What is the difference between a permutation and a combination?,yes,hard,test
+How does the backtracking technique work?,Algorithms,What is backtracking?,yes,easy,test
+Why does thrashing slow down a computer?,Operating Systems,What is thrashing?,yes,easy,test
+How do I cook rice?,,,no,easy,test
+What is a statement that is always true called?,Discrete Mathematics,What is a tautology?,yes,hard,dev
+Explain the causes of World War Two,,,no,easy,dev
+What is the GDP of Japan?,,,no,easy,test
+How does a ray tracer create realistic images?,Computer Graphics and Visual Computing,What is ray tracing?,yes,easy,test
+How does DNS resolve a domain name?,Computer Networks,What is DNS?,yes,easy,test
+Explain software licenses like MIT and GPL,Professional Practices,What is a software licence?,yes,easy,dev
+How do startups make money?,Technopreneurship,What is a revenue model?,yes,hard,dev
+What is normalisation in databases and why is it done?,Database Systems,What is database normalization?,yes,easy,test
+Why is a logic mistake different from a syntax mistake?,Programming Fundamentals,What is the difference between a syntax error and a logic error?,yes,hard,test
+How does instruction pipelining improve performance?,Computer Organization and Architecture,What is pipelining?,yes,easy,test
+How is variance computed?,Probability and Statistics,What is variance?,yes,easy,dev
+Explain agile software development,Software Engineering,What is agile methodology?,yes,easy,test
+How do red green and blue combine to make colours?,Computer Graphics and Visual Computing,What is the RGB colour model?,yes,easy,test
+Recommend a good novel,,,no,easy,test
+Why do computers use a cache?,Computer Organization and Architecture,What is cache memory?,yes,easy,test
+Explain the CLT,Probability and Statistics,What is the central limit theorem?,yes,easy,test
+Relational versus NoSQL databases,Database Systems,What is the difference between SQL and NoSQL databases?,yes,easy,test
+How do I use the pumping lemma?,Theory of Automata,What is the pumping lemma?,yes,easy,test
+How does a constructor initialise an object?,Object Oriented Programming,What is a constructor?,yes,easy,dev
+How do airplanes fly?,,,no,easy,dev
+What is the gradient of a function?,Linear Algebra and Calculus,What is a gradient?,yes,easy,dev
+When should I use HAVING instead of WHERE?,Database Systems,What is the difference between WHERE and HAVING?,yes,easy,dev
+What do students do in a capstone project?,Technical Writing and Research Methods,What is a capstone project?,yes,easy,dev
+Why are NAND and NOR called universal gates?,Digital Logic Design,What are universal gates?,yes,easy,test
+How does a flip flop store one bit?,Digital Logic Design,What is a flip-flop?,yes,easy,test
+Translate good morning into French,,,no,easy,test
+What goes into a business plan?,Technopreneurship,What is a business plan?,yes,easy,test
+What does a virtual private network do?,Computer Networks,What is a VPN?,yes,easy,test
+How do I lose weight fast?,,,no,easy,test
+What number identifies the service for secure web traffic?,Computer Networks,What is a port number?,yes,hard,dev
+How do Prim and Kruskal find the MST?,Algorithms,What is a minimum spanning tree?,yes,hard,dev
+How does a compiler translate programs?,Compiler Construction,What is a compiler?,yes,easy,test
+Top down versus bottom up parser,Compiler Construction,What is the difference between top-down and bottom-up parsing?,yes,easy,dev
+How does binary search halve the search space?,Algorithms,What is binary search?,yes,easy,test
+Process versus thread,Operating Systems,What is the difference between a process and a thread?,yes,easy,test
+What is the bell curve?,Probability and Statistics,What is a normal distribution?,yes,hard,test
+What is the boiling point of water?,,,no,easy,dev
+What does a graphics card do?,Computer Graphics and Visual Computing,What is a GPU?,yes,hard,dev
+What do Unity and Unreal Engine do?,Game Development,What is a game engine?,yes,hard,test
+What is the role of the CPU in a computer?,Computer Organization and Architecture,What is a CPU?,yes,easy,dev
+Why test modules together after combining them?,Software Engineering,What is integration testing?,yes,hard,test
+What is a convolutional neural network?,,,no,hard,test
+What is ethical hacking?,Information Security,What is penetration testing?,yes,hard,test
+How does the Apriori algorithm find frequent itemsets?,Data Mining and Data Warehousing,What is association rule mining?,yes,hard,test
+Explain the 0/1 knapsack problem,Algorithms,What is the knapsack problem?,yes,easy,test
+Explain extract transform load,Data Mining and Data Warehousing,What is ETL?,yes,easy,test
+What makes a relation an equivalence relation?,Discrete Mathematics,What is an equivalence relation?,yes,easy,test
+How are negative numbers stored using 2s complement?,Computer Organization and Architecture,What is two's complement?,yes,hard,test
+What is a B plus tree split?,,,no,hard,test
+What is a fact table surrounded by dimension tables called?,Data Mining and Data Warehousing,What is a star schema?,yes,hard,dev
+How does DP avoid repeated calculations?,Algorithms,What is dynamic programming?,yes,hard,dev
+Who is the president of Brazil?,,,no,easy,dev
+What is IP protection like patents and copyrights?,Professional Practices,What is intellectual property?,yes,hard,test
+What are min heaps and max heaps?,Data Structures,What is a heap?,yes,easy,test
+What is a FIFO queue?,Data Structures,What is a queue?,yes,easy,dev
+How do SQL joins combine tables?,Database Systems,What is a join in SQL?,yes,easy,test
+What causes a race condition?,Operating Systems,What is a race condition?,yes,easy,dev
+Static typing versus dynamic typing,Programming Languages,What is the difference between a statically typed and a dynamically typed language?,yes,easy,dev
+What is quantum computing?,,,no,hard,test
+What is the role of a primary key in a table?,Database Systems,What is a primary key?,yes,easy,test
+What is the document object model?,Web Development,What is the DOM?,yes,easy,test
+How does the compiler use a symbol table?,Compiler Construction,What is a symbol table?,yes,easy,test
+Concurrency vs parallelism,Parallel and Distributed Computing,What is the difference between concurrency and parallelism?,yes,easy,test
+How are triangles turned into pixels?,Computer Graphics and Visual Computing,What is rasterization?,yes,hard,test
+TCP versus UDP,Computer Networks,What is the difference between TCP and UDP?,yes,easy,test
+Explain the TSP,Algorithms,What is the travelling salesman problem?,yes,hard,test
+What is the critical path in a project?,IT Project Management,What is the critical path method?,yes,easy,test
+How do indexes speed up queries?,Database Systems,What is a database index?,yes,easy,dev
+How should I interpret a p value?,Probability and Statistics,What is a p-value?,yes,easy,dev
+How do I build a truth table for a logical expression?,Discrete Mathematics,What is a truth table?,yes,easy,test
+What is the capital of France?,,,no,easy,test
+What do high cohesion and low coupling mean?,Software Engineering,What are coupling and cohesion?,yes,easy,dev
+What is feasibility analysis in system design?,Systems Analysis and Design,What is a feasibility study?,yes,easy,test
+What is an eigenvector?,Linear Algebra and Calculus,What are eigenvalues and eigenvectors?,yes,easy,test
+What is the greedy approach to problem solving?,Algorithms,What is a greedy algorithm?,yes,easy,test
+What is inflation in economics?,,,no,easy,dev
+What does open source mean?,Professional Practices,What is open source software?,yes,easy,test
+Compare RISC and CISC processors,Computer Organization and Architecture,What is the difference between RISC and CISC?,yes,easy,test
+How does minimax pick the best move?,Artificial Intelligence,What is the minimax algorithm?,yes,easy,test
+How does a BST keep its values ordered?,Data Structures,What is a binary search tree?,yes,easy,test
+Explain the LIFO stack data structure,Data Structures,What is a stack?,yes,easy,test
+How do I divide a network with a subnet mask?,Computer Networks,What is subnetting?,yes,hard,test
+Functional vs non functional requirements,Software Engineering,What is the difference between functional and non-functional requirements?,yes,easy,test
+How do I use pandas groupby?,,,no,hard,test
+What is Rust ownership?,,,no,hard,test
+What is an MVP in a startup?,Technopreneurship,What is a minimum viable product?,yes,hard,test
+What does O(n) mean?,Algorithms,What is Big O notation?,yes,hard,dev
+Explain memory paging,Operating Systems,What is paging?,yes,easy,test
+What does an ER diagram show?,Database Systems,What is an entity relationship diagram?,yes,hard,test
+How does a transistor work as a switch?,Applied Physics and Electronics,What is a transistor?,yes,easy,dev
+What happens when the CPU switches between processes?,Operating Systems,What is a context switch?,yes,hard,test
+How do processes get stuck in a deadlock?,Operating Systems,What is a deadlock?,yes,easy,dev
+How do I query rows with SELECT?,Database Systems,What is a SELECT statement?,yes,easy,test
+How does a Turing machine compute?,Theory of Automata,What is a Turing machine?,yes,easy,dev
+How does clustering group similar data?,Machine Learning,What is clustering?,yes,easy,test
+How do De Morgan's rules simplify logic?,Discrete Mathematics,What is De Morgan's law?,yes,easy,dev
+What does a correlation coefficient show?,Probability and Statistics,What is correlation?,yes,easy,test
+What does a DFD show?,Systems Analysis and Design,What is a data flow diagram?,yes,easy,test
+How do I find the shortest path with Dijkstra?,Algorithms,What is Dijkstra's algorithm?,yes,easy,test
+How do hash tables look up keys so fast?,Data Structures,What is a hash table?,yes,hard,dev
+Why can't we decide whether a program halts?,Theory of Automata,What is the halting problem?,yes,hard,test
+Explain the merge sort algorithm,Algorithms,How does merge sort work?,yes,easy,test
+How is a microcontroller different from a microprocessor?,Internet of Things and Embedded Systems,What is a microcontroller?,yes,easy,dev
+How does an SQL injection attack work?,Information Security,What is SQL injection?,yes,easy,dev
+Explain DFS,Algorithms,What is depth first search?,yes,easy,dev
+State the pigeonhole principle with an example,Discrete Mathematics,What is the pigeonhole principle?,yes,easy,test
+How does BFS traverse a graph?,Algorithms,What is breadth first search?,yes,easy,test
+Docker container versus virtual machine,Parallel and Distributed Computing,What is the difference between a virtual machine and a container?,yes,easy,dev
+Black box testing versus white box testing,Software Engineering,What is the difference between black box and white box testing?,yes,easy,test
+What is the population of India?,,,no,easy,dev
+How do I train for a marathon?,,,no,easy,dev
+Explain the theory of evolution,,,no,easy,dev
+Who discovered penicillin?,,,no,easy,dev
+How do solar panels work?,,,no,easy,dev
+What causes earthquakes?,,,no,easy,dev
+What is the plot of Romeo and Juliet?,,,no,easy,dev
+How do I apply for a passport?,,,no,easy,dev
+What is a mortgage?,,,no,easy,dev
+How do bees make honey?,,,no,easy,dev
+Who invented the telephone?,,,no,easy,dev
+What are the symptoms of flu?,,,no,easy,dev
+How do I install Ubuntu?,,,no,hard,dev
+How does the Linux boot process work?,,,no,hard,dev
+What is GraphQL?,,,no,hard,dev
+What is a monad in functional programming?,,,no,hard,dev
+How does Bluetooth pairing work?,,,no,hard,dev
+What is a Kalman filter?,,,no,hard,dev
+What is a type 2 hypervisor?,,,no,hard,dev
+How does BGP routing work?,,,no,hard,dev
+What is differential privacy?,,,no,hard,dev
+What is Dockerfile syntax?,,,no,hard,dev
+What is FPGA programming?,,,no,hard,dev
+What is a segmentation fault?,,,no,hard,dev
+What is the Python GIL?,,,no,hard,dev

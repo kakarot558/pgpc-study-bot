@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}About{% endblock %}
+{% block content %}
+<section class="hero compact"><h1>About StudyBuddy</h1></section>
+<div class="prose panel">
+  <h2>Purpose and scope</h2>
+  <p>StudyBuddy is a machine learning project: a chatbot for <strong>BSCS (Bachelor of Science in Computer Science)</strong> students. It finds the closest prepared answer in a local CSV file and currently knows {{ size }} questions. It answers BSCS course questions only; anything else, and BSCS topics that are not yet in the dataset, get a polite "not found" reply with suggestions.</p>
+  {% if subjects %}<p><strong>Subjects covered:</strong> {{ subjects | join(", ") }}.</p>{% endif %}
+  <h2>How the machine learning part works</h2>
+  <ol>
+    <li>The questions in <code>data/study_faq.csv</code> are cleaned and normalised (lowercase, punctuation and filler words removed).</li>
+    <li>Abbreviations such as ML or NLP are expanded using <code>data/synonyms.csv</code>.</li>
+    <li>A <strong>TF-IDF</strong> vectorizer turns every stored question into numbers. Rare, informative words get more weight than common ones. A second view built from short character sequences helps when word endings differ (tokenizing / tokenization), and a third view also searches the stored answer text.</li>
+    <li>Your question is converted the same way.</li>
+    <li><strong>Cosine similarity</strong> measures how close your question is to each stored one. The score is reduced when some of your words are unknown to the knowledge base.</li>
+    <li>If the best score is at least <strong>{{ threshold }}</strong>, its answer is shown. Otherwise StudyBuddy says it could not find a match.</li>
+  </ol>
+  <p>The similarity score is <em>not</em> a probability and not an accuracy figure. It only reflects word overlap, so a correct answer can be missed when you use very different words, and a wrong answer can occasionally be returned. Answers with a lower score are marked as the closest match found, and related questions are suggested.</p>
+  <h2>Answer quality and your privacy</h2>
+  <p>Answers reviewed by an instructor: <strong>{{ reviewed }} of {{ size }}</strong>. The answers were written for this project; treat unreviewed ones with care and check important facts against your textbook.</p>
+  <p>Your questions are processed locally and are not stored. They are saved to a local file only if you click <em>Helpful</em> or <em>Not helpful</em>{% if log_declined %}, and, because this copy has logging switched on, questions the bot cannot answer are also saved (text only, no personal data){% endif %}. The file is used to decide what to add next.{% if sync_warning %} <strong>Note: this copy stores it in a cloud-synced folder, so it may be uploaded to that cloud service.</strong>{% else %} It stays on this computer.{% endif %}</p>
+  <h2>Optional intent classifier</h2>
+  <p>The project also includes a separate experiment: a supervised classifier (TF-IDF + logistic regression) that predicts the <em>topic</em> of a question. Classification predicts a category; retrieval finds a prepared answer. The chat page uses retrieval only.</p>
+  <h2>Technologies</h2>
+  <p>Python, Flask, Pandas, scikit-learn, Joblib, HTML, CSS and JavaScript. No external AI APIs or keys.</p>
+  <h2>Limitations</h2>
+  <ul>
+    <li>StudyBuddy only answers what is in its dataset. It does not understand language like a generative model.</li>
+    <li>The starter dataset is small and should be reviewed by a teacher before being relied on.</li>
+    <li>The quiz page shows stored questions and answers as flashcards; it records nothing.</li>
+  </ul>
+</div>
+{% endblock %}

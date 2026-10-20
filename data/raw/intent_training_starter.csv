@@ -1,0 +1,88 @@
+﻿text,intent
+what is machine learning,machine_learning
+explain machine learning,machine_learning
+define machine learning,machine_learning
+tell me about machine learning,machine_learning
+how does machine learning work,machine_learning
+meaning of machine learning,machine_learning
+give a simple explanation of machine learning,machine_learning
+machine learning definition,machine_learning
+what is artificial intelligence,artificial_intelligence
+define artificial intelligence,artificial_intelligence
+explain AI,artificial_intelligence
+what does AI mean,artificial_intelligence
+give examples of AI,artificial_intelligence
+tell me about artificial intelligence,artificial_intelligence
+how is AI used,artificial_intelligence
+meaning of artificial intelligence,artificial_intelligence
+what is supervised learning,supervised_learning
+define supervised learning,supervised_learning
+explain labeled training data,supervised_learning
+how does supervised learning work,supervised_learning
+give an example of supervised learning,supervised_learning
+tell me about supervised learning,supervised_learning
+meaning of supervised learning,supervised_learning
+what is overfitting,overfitting
+explain overfitting,overfitting
+why does a model overfit,overfitting
+my model performs badly on new data,overfitting
+how can I prevent overfitting,overfitting
+define overfitting in machine learning,overfitting
+what causes overfitting,overfitting
+what is data cleaning,data_cleaning
+how do I clean my dataset,data_cleaning
+remove missing values from data,data_cleaning
+explain data cleaning,data_cleaning
+what should I do with duplicate rows,data_cleaning
+how to prepare messy data,data_cleaning
+why do we clean data,data_cleaning
+how do I evaluate a model,model_evaluation
+what is model evaluation,model_evaluation
+explain model metrics,model_evaluation
+how can I measure model performance,model_evaluation
+what metrics should I use,model_evaluation
+evaluate my machine learning model,model_evaluation
+how do I test a model,model_evaluation
+how can I study effectively,study_tips
+give me study tips,study_tips
+how do I prepare for exams,study_tips
+help me make a study schedule,study_tips
+how do I remember lessons,study_tips
+how can I stop procrastinating,study_tips
+ways to improve my study habits,study_tips
+what is active recall,active_recall
+explain active recall,active_recall
+how do I use active recall,active_recall
+is testing myself a good study method,active_recall
+how can I remember by recalling,active_recall
+define active recall,active_recall
+tell me about active recall,active_recall
+what is a research question,research_skills
+how do I write a hypothesis,research_skills
+explain literature review,research_skills
+what is qualitative research,research_skills
+what is quantitative research,research_skills
+how do I cite sources,research_skills
+help me understand research methods,research_skills
+how does this chatbot work,chatbot_help
+does this chatbot use an API,chatbot_help
+can I add more questions,chatbot_help
+why did the chatbot give a wrong answer,chatbot_help
+how can I improve the chatbot,chatbot_help
+what dataset does the chatbot use,chatbot_help
+can it answer questions outside the dataset,chatbot_help
+hello,greeting
+hi,greeting
+hey,greeting
+good morning,greeting
+good afternoon,greeting
+hello study buddy,greeting
+hi chatbot,greeting
+good evening,greeting
+thank you,thanks
+thanks,thanks
+thank you for helping,thanks
+that helped me,thanks
+thanks for the explanation,thanks
+I appreciate it,thanks
+many thanks,thanks

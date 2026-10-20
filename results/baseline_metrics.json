@@ -1,0 +1,18 @@
+{
+  "A": {
+    "top1_exact_question_rate": 0.825,
+    "top3_exact_question_rate": 0.95,
+    "answer_precision": 0.8673,
+    "helped_within_one_click_rate": 0.8333,
+    "false_match_count": 3,
+    "wrong_answer_count": 10
+  },
+  "B": {
+    "top1_exact_question_rate": 0.8491,
+    "top3_exact_question_rate": 0.9528,
+    "answer_precision": 0.866,
+    "helped_within_one_click_rate": 0.8491,
+    "false_match_count": 2,
+    "wrong_answer_count": 11
+  }
+}
